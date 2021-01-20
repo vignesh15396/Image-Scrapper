@@ -1,10 +1,10 @@
-## Image Scrapper
+# Image Scrapper
 
 App link:
 
 https://warm-beyond-26022.herokuapp.com/
 
-We can 
+We can download the images matching the search term as zip file as shown below
 
 ![](output/out1.jpg)
 
